@@ -6,4 +6,5 @@
 //down
 //manual
 //hdhdhd
-//without 
+//without
+//via terminal
